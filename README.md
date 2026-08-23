@@ -1,6 +1,6 @@
 ## Hi!, I’m Somar,
-IT engineering graduate, A Junior Front-End Developer,
-Using JS and TS frameworks including React and React Native, also CSS libraries like Tailwind and Bootstrap.
+IT engineering, A  Full-Stack Developer,
+Using Node.js and Laravel frameworks and also React and React Native, CSS libraries like Tailwind and Bootstrap.
 
 I'm with the ability to research, organize and brainstorm,
 I worked earlier as a Data Collector, UI and UX Designer, which should be a big add to my file,
