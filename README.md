@@ -68,5 +68,3 @@ I also enjoy working with Linux, containers and self-hosted development environm
 
 **B.Sc. Information Technology Engineering — Cybersecurity**
 Syrian Virtual University
-- ⚡ Fun fact: ...
--->
