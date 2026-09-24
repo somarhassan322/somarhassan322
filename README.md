@@ -1,6 +1,6 @@
 # Hi, I'm Somar 👋
 
-### Junior Software Engineer | Backend Development | Cybersecurity
+### Software Engineer | Backend Development | Cybersecurity
 
 I'm an Information Technology Engineering graduate specializing in Cybersecurity, focused on backend and web application development.
 
