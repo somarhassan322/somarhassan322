@@ -1,22 +1,72 @@
-## Hi!, I’m Somar,
-IT engineering, A  Full-Stack Developer,
-Using Node.js and Laravel frameworks and also React and React Native, CSS libraries like Tailwind and Bootstrap.
+# Hi, I'm Somar 👋
 
-I'm with the ability to research, organize and brainstorm,
-I worked earlier as a Data Collector, UI and UX Designer, which should be a big add to my file,
-,I hope we work together someday.
+### Junior Software Engineer | Backend Development | Cybersecurity
 
-<!--
-**somarhassan322/somarhassan322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology Engineering graduate specializing in Cybersecurity, focused on backend and web application development.
 
-Here are some ideas to get you started:
+I enjoy building practical applications, designing APIs, working with databases, and understanding how software can be developed and deployed securely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### What I work with
+
+**Backend**
+
+* PHP / Laravel
+* Node.js / Express
+* REST APIs
+
+**Frontend**
+
+* React
+* React Native
+* JavaScript
+* Tailwind CSS
+* Bootstrap
+
+**Databases**
+
+* MySQL
+* SQLite
+* MongoDB
+
+**Tools & Systems**
+
+* Git / GitHub
+* Linux
+* Docker
+* Postman
+
+**Additional interests**
+
+* Cybersecurity
+* DevOps
+* Application Security
+* System Administration
+
+### Featured Projects
+
+🚀 **Real Estate Platform**
+Full-stack application built with Laravel, React, MySQL and REST APIs.
+
+👨‍💻 **Developer Social Network**
+MERN application integrating the GitHub API.
+
+🛒 **E-commerce Admin Panel**
+React and Laravel application for managing e-commerce operations.
+
+📱 **React Native Todo App**
+Mobile application using React Native and local data storage.
+
+### Currently developing
+
+My current learning direction is focused on:
+
+**Backend Engineering → DevOps → DevSecOps / Cybersecurity**
+
+I also enjoy working with Linux, containers and self-hosted development environments.
+
+### Education
+
+**B.Sc. Information Technology Engineering — Cybersecurity**
+Syrian Virtual University
 - ⚡ Fun fact: ...
 -->
