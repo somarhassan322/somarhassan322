@@ -44,17 +44,12 @@ I enjoy building practical applications, designing APIs, working with databases,
 
 ### Featured Projects
 
-🚀 **Real Estate Platform**
-Full-stack application built with Laravel, React, MySQL and REST APIs.
+🚀 **Developer Network API**
+REST API for a developer-focused social network built with Node.js, Express.js, MongoDB, Mongoose, JWT, and Postman.
 
-👨‍💻 **Developer Social Network**
-MERN application integrating the GitHub API.
+🌐 **Laravel Web Application**
+Full-stack web application built with Laravel, PHP, MySQL, and modern web development practices.
 
-🛒 **E-commerce Admin Panel**
-React and Laravel application for managing e-commerce operations.
-
-📱 **React Native Todo App**
-Mobile application using React Native and local data storage.
 
 ### Currently developing
 
